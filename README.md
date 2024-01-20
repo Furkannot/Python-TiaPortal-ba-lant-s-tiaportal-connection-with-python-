@@ -1,2 +1,3 @@
-# Python-TiaPortal-ba-lant-s-tiaportal-connection-with-python-
+# Python-TiaPortal-baglantisi-tiaportal-connection-with-python-
 Python ile Siemens s71200 plc cihazına bağlanıyoruz. TiaPortal haberleşmesi sağlıyoruz
+Konu ile alakalı video youtube yüklenecektir linki bırakılacak...
